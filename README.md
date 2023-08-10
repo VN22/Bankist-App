@@ -16,6 +16,6 @@ To view and test the application, login using the following test credentials:
 3. Username: mj  
    pin: 3333  
 4. Username: sd  
-   pin:4444  
+   pin: 4444  
 
 
